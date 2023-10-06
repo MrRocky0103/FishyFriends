@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Ich",
+    "description": "A common parasitic disease that causes white spots on the fish's body."
+  },
+  {
+    "name": "Fin Rot",
+    "description": "A bacterial infection that causes the fins to deteriorate and fall off."
+  },
+  {
+    "name": "Dropsy",
+    "description": "A bacterial infection that causes the fish to swell and develop pinecone-like scales."
+  },
+  {
+    "name": "Velvet",
+    "description": "A parasitic disease that causes a yellow or brown dust-like coating on the fish's body."
+  },
+  {
+    "name": "Columnaris",
+    "description": "A bacterial infection that causes white or gray patches on the fish's body."
+  },
+  {
+    "name": "Anchor Worm",
+    "description": "A parasitic disease that causes a worm-like protrusion on the fish's body."
+  },
+  {
+    "name": "Swim Bladder Disease",
+    "description": "A condition that affects the fish's ability to control its buoyancy, causing it to float or sink uncontrollably."
+  },
+  {
+    "name": "Mouth Fungus",
+    "description": "A fungal infection that causes white or gray patches around the fish's mouth."
+  },
+  {
+    "name": "Pop Eye",
+    "description": "A condition that causes one or both of the fish's eyes to bulge out of its head."
+  },
+  {
+    "name": "Hole in the Head",
+    "description": "A condition that causes small holes to form on the fish's head."
+  }
+]
+

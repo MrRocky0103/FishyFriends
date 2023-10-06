@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Goldfish",
+        "description": "A small, shiny fish that is easy to care for."
+    },
+    {
+        "name": "Betta",
+        "description": "A colorful fish that is known for its aggression."
+    },
+    {
+        "name": "Guppy",
+        "description": "A small, peaceful fish that is easy to breed."
+    },
+    {
+        "name": "Molly",
+        "description": "A hardy fish that can adapt to a variety of water conditions."
+    },
+    {
+        "name": "Platy",
+        "description": "A colorful fish that is easy to care for."
+    },
+    {
+        "name": "Swordtail",
+        "description": "A peaceful fish that is known for its sword-like tail."
+    },
+    {
+        "name": "Tetra",
+        "description": "A small, colorful fish that is easy to care for."
+    },
+    {
+        "name": "Angelfish",
+        "description": "A graceful fish that can grow quite large."
+    },
+    {
+        "name": "Discus",
+        "description": "A beautiful fish that requires a bit more care than most."
+    },
+    {
+        "name": "Cichlid",
+        "description": "A diverse group of fish that come in many shapes and sizes."
+    }
+]

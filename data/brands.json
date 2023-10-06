@@ -1,0 +1,23 @@
+[
+  {
+    "name": "API",
+    "description": "API is a brand that offers a wide range of products for all types of aquariums. They have a reputation for producing high-quality products that are reliable and long-lasting."
+  },
+  {
+    "name": "Fluval",
+    "description": "Fluval is a well-known brand that offers a variety of products for aquariums. They are known for their high-quality filters, heaters, and lighting systems."
+  },
+  {
+    "name": "Tetra",
+    "description": "Tetra is a popular brand that offers a wide range of products for aquariums. They are known for their high-quality fish food, filters, and water conditioners."
+  },
+  {
+    "name": "Seachem",
+    "description": "Seachem is a brand that offers a variety of products for aquariums. They are known for their high-quality water conditioners, fertilizers, and supplements."
+  },
+  {
+    "name": "Hikari",
+    "description": "Hikari is a brand that offers a variety of products for aquariums. They are known for their high-quality fish food, which is specially formulated to meet the nutritional needs of different types of fish."
+  }
+]
+

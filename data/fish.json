@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Goldfish",
+    "description": "A popular freshwater fish that comes in many colors and varieties."
+  },
+  {
+    "name": "Betta Fish",
+    "description": "A colorful freshwater fish that is easy to care for and can live in small tanks."
+  },
+  {
+    "name": "Guppy",
+    "description": "A small, colorful freshwater fish that is easy to care for and breed."
+  },
+  {
+    "name": "Neon Tetra",
+    "description": "A small, brightly colored freshwater fish that is popular in community tanks."
+  },
+  {
+    "name": "Angelfish",
+    "description": "A popular freshwater fish with a distinctive shape and long fins."
+  },
+  {
+    "name": "Discus",
+    "description": "A beautiful and popular freshwater fish that requires a bit more care than some other species."
+  },
+  {
+    "name": "Molly",
+    "description": "A peaceful and easy-to-care-for freshwater fish that comes in many colors."
+  },
+  {
+    "name": "Swordtail",
+    "description": "A colorful and active freshwater fish that is easy to care for and breed."
+  },
+  {
+    "name": "Tetra",
+    "description": "A diverse group of small freshwater fish that come in many colors and varieties."
+  },
+  {
+    "name": "Zebrafish",
+    "description": "A popular freshwater fish that is easy to care for and breed, often used in scientific research."
+  }
+]
